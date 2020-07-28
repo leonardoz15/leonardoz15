@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Zach
 #### :black_circle: Welcome to my GitHub :black_circle:
-![:black_circle: Welcome to my GitHub :black_circle:](https://github.com/leonardoz15/leonardoz15/blob/master/assets/sunset.jpeg)
 
 * I'm a recent graduate from [Allegheny College](https://allegheny.edu/) :mortar_board:
 * B.S. in Computer Science :computer:
