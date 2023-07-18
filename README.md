@@ -13,8 +13,8 @@
 * Currently looking for full-stack web development positions :office:
 * __Checkout what I'm working on__ :point_down:
 
-
-
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoz15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoz15&layout=compact&theme=buefy&hide_border=true)
+| ------------- | ------------- |
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
@@ -23,7 +23,3 @@
   <a href="https://twitter.com/ZachLeonardoAC"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
   <a href="https://www.zacharyleonardo.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </p>
-
-|![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoz15&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoz15&layout=compact&theme=buefy&hide_border=true)
-| ------------- | ------------- |
-
